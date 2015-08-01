@@ -1,2 +1,2 @@
 # dindin_server
-DinDin Python Server
+DinDin Python Server - First Start
